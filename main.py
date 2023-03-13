@@ -1,8 +1,9 @@
-# This is a sample Python script.
+import numpy
+import pandas
+from sklearn.preprocessing import MinMaxScaler
+import matplotlib
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
+import seaborn as sns
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
